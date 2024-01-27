@@ -1,7 +1,9 @@
 <h1 align="center">✨ Hello ✨</h1>
+<span style="font-size:1.2em;">
 👧 Beatrix Victoria </br>
 🎓 Final-year computer science student </br>
-💡Eager learner with a curious mind
+💡 Eager learner with a curious mind
+</span>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40" height="40"/> </a> 
